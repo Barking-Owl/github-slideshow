@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+There are many ways to cook an egg.
 Use the left arrow to go back!
